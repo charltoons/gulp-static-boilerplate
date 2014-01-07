@@ -1,0 +1,19 @@
+{
+  "name": "gulp-static-boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Charlton Roberts <charltonroberts@gmail.com>"
+  ],
+  "main": "build/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~2.1.3"
+  }
+}
